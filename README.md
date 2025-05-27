@@ -1,4 +1,4 @@
-# IPSAL
+# MORRIS
 To use the IPSAL Morris module, read the attached article.
 
 When using the Morris code for sensitivity analysis, cite:
